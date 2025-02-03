@@ -9,7 +9,7 @@ Este projeto consiste no desenvolvimento de um ERP (Enterprise Resource Planning
 - **Vendas**: Gerenciamento completo das operações de venda.
 - **Contas a Pagar/Receber**: Controle financeiro integrado.
 - **Usuários**: Cadastro e gerenciamento de usuários para acesso ao sistema.
-- **Integração com Mercado Livre**: Sincronização do estoque e emissão automática de notas fiscais para a loja online.
+- **Integração com Mercado Livre**: Sincronização do estoque e emissão automática de notas fiscais para a loja física e online.
 - **Loja Física e Online**: Possibilidade de definir preços distintos para os mesmos produtos, dependendo da modalidade.
 
 ## Tecnologias Utilizadas
