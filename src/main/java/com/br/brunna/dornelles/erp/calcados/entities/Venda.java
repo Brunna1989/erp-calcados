@@ -1,4 +1,4 @@
-package com.br.brunna.dornelles.erp.calcados;
+package com.br.brunna.dornelles.erp.calcados.entities;
 
 
 import jakarta.persistence.*;
